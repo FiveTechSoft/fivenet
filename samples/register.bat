@@ -1,0 +1,1 @@
+c:\Windows\Microsoft.NET\Framework\v2.0.50727\regasm fivenet.dll /tlb
